@@ -2,6 +2,6 @@
 
 Repositorio de prácticas del módulo de *Desarrollo de Aplicaciones Web*.
 
+Autor: `Jose Manuel Castillo Ramòn`
 
-Autor: <Jose Manuel Castillo Ramòn>
-Co-Autor: <ParaDevOne>
+Co-Autor: `ParaDevOne`
